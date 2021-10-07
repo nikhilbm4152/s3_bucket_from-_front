@@ -10,7 +10,7 @@ for (i = 0; i < warray.length; i++) {
   ) {
     newArray.push(warray[i]);
   }
-  const baba = "ssstts";
+  const baba = "ssstts ddd";
 }
 console.log(newArray);
 
